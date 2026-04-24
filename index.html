@@ -154,12 +154,17 @@
     }
 
     /* ================ HERO ================ */
+    .hero-block {
+      min-height: calc(100dvh - 73px);
+      display: flex; flex-direction: column;
+    }
     .hero {
       position: relative;
       background: var(--asphalt);
       color: var(--bone);
       overflow: hidden;
       isolation: isolate;
+      flex: 1 1 auto; display: flex; flex-direction: column; justify-content: center;
     }
     .hero::before {
       content: ''; position: absolute; inset: 0; z-index: 0; pointer-events: none;
@@ -885,6 +890,7 @@
 
   <main id="top">
     <!-- ============ HERO with SEARCH ============ -->
+    <div class="hero-block">
     <section class="hero">
       <div class="container">
         <div class="hero-grid">
@@ -984,6 +990,7 @@
         </div>
       </div>
     </section>
+    </div><!-- /.hero-block -->
 
     <!-- ============ INVENTORY (SRP) ============ -->
     <section class="inv" id="inventory">
