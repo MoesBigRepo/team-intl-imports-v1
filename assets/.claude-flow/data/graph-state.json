@@ -1,0 +1,2391 @@
+{
+  "version": 1,
+  "updatedAt": 1777065538786,
+  "nodeCount": 212,
+  "nodes": {
+    "mem-MEMORY-credify---credit-repair": {
+      "id": "mem-MEMORY-credify---credit-repair",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-MEMORY-core-behavioral-rules--apply-t": {
+      "id": "mem-MEMORY-core-behavioral-rules--apply-t",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-MEMORY-deal-analyzer": {
+      "id": "mem-MEMORY-deal-analyzer",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-MEMORY-payroll-engine": {
+      "id": "mem-MEMORY-payroll-engine",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-MEMORY-projects": {
+      "id": "mem-MEMORY-projects",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-MEMORY-user-profile": {
+      "id": "mem-MEMORY-user-profile",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-MEMORY-skills---tools": {
+      "id": "mem-MEMORY-skills---tools",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-MEMORY-hooks---system": {
+      "id": "mem-MEMORY-hooks---system",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-MEMORY-design": {
+      "id": "mem-MEMORY-design",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-MEMORY-research": {
+      "id": "mem-MEMORY-research",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-adhd-protocol-supplements----": {
+      "id": "mem-adhd-protocol-supplements----",
+      "category": "adhd-protocol-supplements",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-adhd-protocol-supplements-protocol-files----desktop-adhd": {
+      "id": "mem-adhd-protocol-supplements-protocol-files----desktop-adhd",
+      "category": "adhd-protocol-supplements",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-adhd-protocol-supplements-current-sleep-stack--upgraded-": {
+      "id": "mem-adhd-protocol-supplements-current-sleep-stack--upgraded-",
+      "category": "adhd-protocol-supplements",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-adhd-protocol-supplements-peptide-stack": {
+      "id": "mem-adhd-protocol-supplements-peptide-stack",
+      "category": "adhd-protocol-supplements",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-adhd-protocol-supplements-recent-additions--from-tattere": {
+      "id": "mem-adhd-protocol-supplements-recent-additions--from-tattere",
+      "category": "adhd-protocol-supplements",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-adhd-protocol-supplements-key-findings": {
+      "id": "mem-adhd-protocol-supplements-key-findings",
+      "category": "adhd-protocol-supplements",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-apigenin-bioavailability----": {
+      "id": "mem-apigenin-bioavailability----",
+      "category": "apigenin-bioavailability",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-auto-router-2026-03-21----": {
+      "id": "mem-auto-router-2026-03-21----",
+      "category": "auto-router-2026-03-21",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-auto-router-2026-03-21-skill-auto-router--2026-03-21-": {
+      "id": "mem-auto-router-2026-03-21-skill-auto-router--2026-03-21-",
+      "category": "auto-router-2026-03-21",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-credify_cross_bureau_dedup----": {
+      "id": "mem-credify_cross_bureau_dedup----",
+      "category": "credify_cross_bureau_dedup",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-credify_ftc_engine----": {
+      "id": "mem-credify_ftc_engine----",
+      "category": "credify_ftc_engine",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-credify_ftc_engine-credify-ftc-engine": {
+      "id": "mem-credify_ftc_engine-credify-ftc-engine",
+      "category": "credify_ftc_engine",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-credify_intake_form----": {
+      "id": "mem-credify_intake_form----",
+      "category": "credify_intake_form",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-credify_intake_form-credify-client-intake-form": {
+      "id": "mem-credify_intake_form-credify-client-intake-form",
+      "category": "credify_intake_form",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538769
+    },
+    "mem-credit-audit-business-rules----": {
+      "id": "mem-credit-audit-business-rules----",
+      "category": "credit-audit-business-rules",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit-audit-business-rules-credit-audit-business-rules--a": {
+      "id": "mem-credit-audit-business-rules-credit-audit-business-rules--a",
+      "category": "credit-audit-business-rules",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit-audit-closed-revolving-rule----": {
+      "id": "mem-credit-audit-closed-revolving-rule----",
+      "category": "credit-audit-closed-revolving-rule",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit-audit-closed-revolving-rule-closed-account-rules--as-of-20": {
+      "id": "mem-credit-audit-closed-revolving-rule-closed-account-rules--as-of-20",
+      "category": "credit-audit-closed-revolving-rule",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit-audit-output-location----": {
+      "id": "mem-credit-audit-output-location----",
+      "category": "credit-audit-output-location",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit-audit-redesign----": {
+      "id": "mem-credit-audit-redesign----",
+      "category": "credit-audit-redesign",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit-audit-redesign-credit-audit-template-redesign": {
+      "id": "mem-credit-audit-redesign-credit-audit-template-redesign",
+      "category": "credit-audit-redesign",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit_strategy_engine----": {
+      "id": "mem-credit_strategy_engine----",
+      "category": "credit_strategy_engine",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit_strategy_engine-files": {
+      "id": "mem-credit_strategy_engine-files",
+      "category": "credit_strategy_engine",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit_strategy_engine-usage": {
+      "id": "mem-credit_strategy_engine-usage",
+      "category": "credit_strategy_engine",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit_strategy_engine-json-input-schema--key-fields-": {
+      "id": "mem-credit_strategy_engine-json-input-schema--key-fields-",
+      "category": "credit_strategy_engine",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit_strategy_engine-key-behaviors": {
+      "id": "mem-credit_strategy_engine-key-behaviors",
+      "category": "credit_strategy_engine",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit_strategy_engine-design-reference": {
+      "id": "mem-credit_strategy_engine-design-reference",
+      "category": "credit_strategy_engine",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit_strategy_template----": {
+      "id": "mem-credit_strategy_template----",
+      "category": "credit_strategy_template",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-credit_strategy_template-credit-strategy-document-templ": {
+      "id": "mem-credit_strategy_template-credit-strategy-document-templ",
+      "category": "credit_strategy_template",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-dark-build-1----": {
+      "id": "mem-dark-build-1----",
+      "category": "dark-build-1",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-dark-build-1-design-tokens": {
+      "id": "mem-dark-build-1-design-tokens",
+      "category": "dark-build-1",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-dark-build-1-core-style-rules": {
+      "id": "mem-dark-build-1-core-style-rules",
+      "category": "dark-build-1",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-dark-build-1-component-patterns": {
+      "id": "mem-dark-build-1-component-patterns",
+      "category": "dark-build-1",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-dark-build-1-interaction": {
+      "id": "mem-dark-build-1-interaction",
+      "category": "dark-build-1",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-dark-build-1-responsive-breakpoints": {
+      "id": "mem-dark-build-1-responsive-breakpoints",
+      "category": "dark-build-1",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-dark-build-1-constraints--do-not-": {
+      "id": "mem-dark-build-1-constraints--do-not-",
+      "category": "dark-build-1",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-dark-build-1-reference-file": {
+      "id": "mem-dark-build-1-reference-file",
+      "category": "dark-build-1",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_aec_forbidden_buttons----": {
+      "id": "mem-feedback_aec_forbidden_buttons----",
+      "category": "feedback_aec_forbidden_buttons",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_aec_mullvad_only_during_runs----": {
+      "id": "mem-feedback_aec_mullvad_only_during_runs----",
+      "category": "feedback_aec_mullvad_only_during_runs",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_aec_use_visible_browser_for_debug----": {
+      "id": "mem-feedback_aec_use_visible_browser_for_debug----",
+      "category": "feedback_aec_use_visible_browser_for_debug",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_aec_visual_tracking----": {
+      "id": "mem-feedback_aec_visual_tracking----",
+      "category": "feedback_aec_visual_tracking",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_agent_type_for_design_review----": {
+      "id": "mem-feedback_agent_type_for_design_review----",
+      "category": "feedback_agent_type_for_design_review",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_always_add_favicon----": {
+      "id": "mem-feedback_always_add_favicon----",
+      "category": "feedback_always_add_favicon",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_chmod_600_secret_dotfiles----": {
+      "id": "mem-feedback_chmod_600_secret_dotfiles----",
+      "category": "feedback_chmod_600_secret_dotfiles",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_client_email_rule----": {
+      "id": "mem-feedback_client_email_rule----",
+      "category": "feedback_client_email_rule",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_client_folder_structure----": {
+      "id": "mem-feedback_client_folder_structure----",
+      "category": "feedback_client_folder_structure",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_client_phone_tv_persistence----": {
+      "id": "mem-feedback_client_phone_tv_persistence----",
+      "category": "feedback_client_phone_tv_persistence",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_credit_audit_workflow----": {
+      "id": "mem-feedback_credit_audit_workflow----",
+      "category": "feedback_credit_audit_workflow",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_deal_analyzer_auto_trigger----": {
+      "id": "mem-feedback_deal_analyzer_auto_trigger----",
+      "category": "feedback_deal_analyzer_auto_trigger",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_deal_analyzer_follow_workflow----": {
+      "id": "mem-feedback_deal_analyzer_follow_workflow----",
+      "category": "feedback_deal_analyzer_follow_workflow",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538770
+    },
+    "mem-feedback_deal_analyzer_html_report----": {
+      "id": "mem-feedback_deal_analyzer_html_report----",
+      "category": "feedback_deal_analyzer_html_report",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_deal_analyzer_scraping----": {
+      "id": "mem-feedback_deal_analyzer_scraping----",
+      "category": "feedback_deal_analyzer_scraping",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_exhaust_all_tools----": {
+      "id": "mem-feedback_exhaust_all_tools----",
+      "category": "feedback_exhaust_all_tools",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_font_sizing----": {
+      "id": "mem-feedback_font_sizing----",
+      "category": "feedback_font_sizing",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_gmail_cli_over_mailapp----": {
+      "id": "mem-feedback_gmail_cli_over_mailapp----",
+      "category": "feedback_gmail_cli_over_mailapp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_live_polling----": {
+      "id": "mem-feedback_live_polling----",
+      "category": "feedback_live_polling",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_ltv_decimals----": {
+      "id": "mem-feedback_ltv_decimals----",
+      "category": "feedback_ltv_decimals",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_mailapp_default_sender----": {
+      "id": "mem-feedback_mailapp_default_sender----",
+      "category": "feedback_mailapp_default_sender",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_minimum_effective_dose----": {
+      "id": "mem-feedback_minimum_effective_dose----",
+      "category": "feedback_minimum_effective_dose",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_missing_fonts----": {
+      "id": "mem-feedback_missing_fonts----",
+      "category": "feedback_missing_fonts",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_never_ask_listing_data----": {
+      "id": "mem-feedback_never_ask_listing_data----",
+      "category": "feedback_never_ask_listing_data",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_no_auto_shipping----": {
+      "id": "mem-feedback_no_auto_shipping----",
+      "category": "feedback_no_auto_shipping",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_no_desktop_log_files----": {
+      "id": "mem-feedback_no_desktop_log_files----",
+      "category": "feedback_no_desktop_log_files",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_no_drive_sync----": {
+      "id": "mem-feedback_no_drive_sync----",
+      "category": "feedback_no_drive_sync",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_no_em_dashes----": {
+      "id": "mem-feedback_no_em_dashes----",
+      "category": "feedback_no_em_dashes",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538771
+    },
+    "mem-feedback_no_find_on_cloudstorage----": {
+      "id": "mem-feedback_no_find_on_cloudstorage----",
+      "category": "feedback_no_find_on_cloudstorage",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_no_hybrid_boa----": {
+      "id": "mem-feedback_no_hybrid_boa----",
+      "category": "feedback_no_hybrid_boa",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_node_path----": {
+      "id": "mem-feedback_node_path----",
+      "category": "feedback_node_path",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_oem_convergence_prefer_operator_gate----": {
+      "id": "mem-feedback_oem_convergence_prefer_operator_gate----",
+      "category": "feedback_oem_convergence_prefer_operator_gate",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_oem_santa_for_claude_internals----": {
+      "id": "mem-feedback_oem_santa_for_claude_internals----",
+      "category": "feedback_oem_santa_for_claude_internals",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_payroll_demo_context----": {
+      "id": "mem-feedback_payroll_demo_context----",
+      "category": "feedback_payroll_demo_context",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_paystub_friday_rule----": {
+      "id": "mem-feedback_paystub_friday_rule----",
+      "category": "feedback_paystub_friday_rule",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_plan_mode----": {
+      "id": "mem-feedback_plan_mode----",
+      "category": "feedback_plan_mode",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_trust_assumption----": {
+      "id": "mem-feedback_trust_assumption----",
+      "category": "feedback_trust_assumption",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_verify_capability_before_refusing----": {
+      "id": "mem-feedback_verify_capability_before_refusing----",
+      "category": "feedback_verify_capability_before_refusing",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_verify_capability_before_refusing-rule-1---verify-before-declini": {
+      "id": "mem-feedback_verify_capability_before_refusing-rule-1---verify-before-declini",
+      "category": "feedback_verify_capability_before_refusing",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_verify_capability_before_refusing-rule-2---never-substitute-a-ca": {
+      "id": "mem-feedback_verify_capability_before_refusing-rule-2---never-substitute-a-ca",
+      "category": "feedback_verify_capability_before_refusing",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_verify_capability_before_refusing-rule-3---bound-the-url-safety-": {
+      "id": "mem-feedback_verify_capability_before_refusing-rule-3---bound-the-url-safety-",
+      "category": "feedback_verify_capability_before_refusing",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_visual_verification----": {
+      "id": "mem-feedback_visual_verification----",
+      "category": "feedback_visual_verification",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_vpn_mullvad_cli----": {
+      "id": "mem-feedback_vpn_mullvad_cli----",
+      "category": "feedback_vpn_mullvad_cli",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_webfetch_403_fallback----": {
+      "id": "mem-feedback_webfetch_403_fallback----",
+      "category": "feedback_webfetch_403_fallback",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-feedback_webgl_verification----": {
+      "id": "mem-feedback_webgl_verification----",
+      "category": "feedback_webgl_verification",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-ftc_form_flow----": {
+      "id": "mem-ftc_form_flow----",
+      "category": "ftc_form_flow",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-ftc_form_flow-complete-post-2fa-flow--record": {
+      "id": "mem-ftc_form_flow-complete-post-2fa-flow--record",
+      "category": "ftc_form_flow",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-glass-card-dark-purple----": {
+      "id": "mem-glass-card-dark-purple----",
+      "category": "glass-card-dark-purple",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-hooks-architecture-how-claude-code-loads-hooks": {
+      "id": "mem-hooks-architecture-how-claude-code-loads-hooks",
+      "category": "hooks-architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-hooks-architecture-all-5-hooks-json-locations-all": {
+      "id": "mem-hooks-architecture-all-5-hooks-json-locations-all",
+      "category": "hooks-architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-hooks-architecture-write-hook-fix": {
+      "id": "mem-hooks-architecture-write-hook-fix",
+      "category": "hooks-architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-hooks-architecture-bypass-workaround": {
+      "id": "mem-hooks-architecture-bypass-workaround",
+      "category": "hooks-architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-hooks-architecture-auto-memory-bridge-fix--2026-0": {
+      "id": "mem-hooks-architecture-auto-memory-bridge-fix--2026-0",
+      "category": "hooks-architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-hooks-architecture-note--observer-system-killed-2": {
+      "id": "mem-hooks-architecture-note--observer-system-killed-2",
+      "category": "hooks-architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-hooks-architecture-key-insight": {
+      "id": "mem-hooks-architecture-key-insight",
+      "category": "hooks-architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-intelligence-report-skill----": {
+      "id": "mem-intelligence-report-skill----",
+      "category": "intelligence-report-skill",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-observer_v2_postmortem----": {
+      "id": "mem-observer_v2_postmortem----",
+      "category": "observer_v2_postmortem",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-observer_v2_postmortem-continuous-learning-v2-observe": {
+      "id": "mem-observer_v2_postmortem-continuous-learning-v2-observe",
+      "category": "observer_v2_postmortem",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-observer_v2_postmortem-what-was-killed": {
+      "id": "mem-observer_v2_postmortem-what-was-killed",
+      "category": "observer_v2_postmortem",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-observer_v2_postmortem-failure-modes--avoid-in-v3-": {
+      "id": "mem-observer_v2_postmortem-failure-modes--avoid-in-v3-",
+      "category": "observer_v2_postmortem",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-observer_v2_postmortem-drive-crash-correlation---verd": {
+      "id": "mem-observer_v2_postmortem-drive-crash-correlation---verd",
+      "category": "observer_v2_postmortem",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-observer_v2_postmortem-things-that-worked--preserve-i": {
+      "id": "mem-observer_v2_postmortem-things-that-worked--preserve-i",
+      "category": "observer_v2_postmortem",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-observer_v2_postmortem-recommended-v3-design-principl": {
+      "id": "mem-observer_v2_postmortem-recommended-v3-design-principl",
+      "category": "observer_v2_postmortem",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-payroll_engine_sales_rules----": {
+      "id": "mem-payroll_engine_sales_rules----",
+      "category": "payroll_engine_sales_rules",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-payroll_engine_v2_updates----": {
+      "id": "mem-payroll_engine_v2_updates----",
+      "category": "payroll_engine_v2_updates",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-payroll_engine_v2_updates-changes-applied": {
+      "id": "mem-payroll_engine_v2_updates-changes-applied",
+      "category": "payroll_engine_v2_updates",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-payroll_engine_v2_updates-pending--1099-contractor-mode": {
+      "id": "mem-payroll_engine_v2_updates-pending--1099-contractor-mode",
+      "category": "payroll_engine_v2_updates",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-payroll_engine_v3_enterprise_upgrade----": {
+      "id": "mem-payroll_engine_v3_enterprise_upgrade----",
+      "category": "payroll_engine_v3_enterprise_upgrade",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-payroll_engine_v3_enterprise_upgrade-new-files-added--7-": {
+      "id": "mem-payroll_engine_v3_enterprise_upgrade-new-files-added--7-",
+      "category": "payroll_engine_v3_enterprise_upgrade",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-payroll_engine_v3_enterprise_upgrade-modified-files": {
+      "id": "mem-payroll_engine_v3_enterprise_upgrade-modified-files",
+      "category": "payroll_engine_v3_enterprise_upgrade",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-payroll_engine_v3_enterprise_upgrade-design-decisions": {
+      "id": "mem-payroll_engine_v3_enterprise_upgrade-design-decisions",
+      "category": "payroll_engine_v3_enterprise_upgrade",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-payroll_engine_v3_enterprise_upgrade-watermark-positioning--rendere": {
+      "id": "mem-payroll_engine_v3_enterprise_upgrade-watermark-positioning--rendere",
+      "category": "payroll_engine_v3_enterprise_upgrade",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-permissions-override-bug----": {
+      "id": "mem-permissions-override-bug----",
+      "category": "permissions-override-bug",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538772
+    },
+    "mem-project_agentic_rag_education----": {
+      "id": "mem-project_agentic_rag_education----",
+      "category": "project_agentic_rag_education",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_agentic_rag_education-paths": {
+      "id": "mem-project_agentic_rag_education-paths",
+      "category": "project_agentic_rag_education",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_agentic_rag_education-deployment": {
+      "id": "mem-project_agentic_rag_education-deployment",
+      "category": "project_agentic_rag_education",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_agentic_rag_education-non-obvious-gotchas--would-los": {
+      "id": "mem-project_agentic_rag_education-non-obvious-gotchas--would-los",
+      "category": "project_agentic_rag_education",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_agentic_rag_education-key-decisions--locked-": {
+      "id": "mem-project_agentic_rag_education-key-decisions--locked-",
+      "category": "project_agentic_rag_education",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_agentic_rag_education-current-state-at-last-checkpoi": {
+      "id": "mem-project_agentic_rag_education-current-state-at-last-checkpoi",
+      "category": "project_agentic_rag_education",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ai_model_stack_2026----": {
+      "id": "mem-project_ai_model_stack_2026----",
+      "category": "project_ai_model_stack_2026",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_automated_email_creator----": {
+      "id": "mem-project_automated_email_creator----",
+      "category": "project_automated_email_creator",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_automated_email_creator-automated-email-creator": {
+      "id": "mem-project_automated_email_creator-automated-email-creator",
+      "category": "project_automated_email_creator",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_banking_forge_status----": {
+      "id": "mem-project_banking_forge_status----",
+      "category": "project_banking_forge_status",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_banking_forge_status-banking-forge---boa-demo-state": {
+      "id": "mem-project_banking_forge_status-banking-forge---boa-demo-state",
+      "category": "project_banking_forge_status",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_boa_font_root_fix----": {
+      "id": "mem-project_boa_font_root_fix----",
+      "category": "project_boa_font_root_fix",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_boa_fonts_authenticated----": {
+      "id": "mem-project_boa_fonts_authenticated----",
+      "category": "project_boa_fonts_authenticated",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_boa_line_fix----": {
+      "id": "mem-project_boa_line_fix----",
+      "category": "project_boa_line_fix",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_calibration_first_match----": {
+      "id": "mem-project_calibration_first_match----",
+      "category": "project_calibration_first_match",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state----": {
+      "id": "mem-project_ftc_intake_workflow_state----",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-where--two-repos-involved": {
+      "id": "mem-project_ftc_intake_workflow_state-where--two-repos-involved",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-what--end-to-end-pipeline-conf": {
+      "id": "mem-project_ftc_intake_workflow_state-what--end-to-end-pipeline-conf",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-reset---launch-procedure--for-": {
+      "id": "mem-project_ftc_intake_workflow_state-reset---launch-procedure--for-",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-2--remove-local-active-clients": {
+      "id": "mem-project_ftc_intake_workflow_state-2--remove-local-active-clients",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-3--copy-fresh-test-folder-from": {
+      "id": "mem-project_ftc_intake_workflow_state-3--copy-fresh-test-folder-from",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-5--launch": {
+      "id": "mem-project_ftc_intake_workflow_state-5--launch",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-recent-commit-history--last-se": {
+      "id": "mem-project_ftc_intake_workflow_state-recent-commit-history--last-se",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-pending-issues--top-of-stack-w": {
+      "id": "mem-project_ftc_intake_workflow_state-pending-issues--top-of-stack-w",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-what-works-confirmed--from-las": {
+      "id": "mem-project_ftc_intake_workflow_state-what-works-confirmed--from-las",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-ftc-confirmation-numbers-logge": {
+      "id": "mem-project_ftc_intake_workflow_state-ftc-confirmation-numbers-logge",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_ftc_intake_workflow_state-key-design-decisions-locked-in": {
+      "id": "mem-project_ftc_intake_workflow_state-key-design-decisions-locked-in",
+      "category": "project_ftc_intake_workflow_state",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_github_backup_protocol----": {
+      "id": "mem-project_github_backup_protocol----",
+      "category": "project_github_backup_protocol",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_github_backup_protocol-github-backup-protocol--update": {
+      "id": "mem-project_github_backup_protocol-github-backup-protocol--update",
+      "category": "project_github_backup_protocol",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_leny_sign_and_shield_website----": {
+      "id": "mem-project_leny_sign_and_shield_website----",
+      "category": "project_leny_sign_and_shield_website",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_leny_sign_and_shield_website-heritage--private---do-not-put": {
+      "id": "mem-project_leny_sign_and_shield_website-heritage--private---do-not-put",
+      "category": "project_leny_sign_and_shield_website",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_leny_sign_and_shield_website-site-location": {
+      "id": "mem-project_leny_sign_and_shield_website-site-location",
+      "category": "project_leny_sign_and_shield_website",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_leny_sign_and_shield_website-design-direction--old-money--b": {
+      "id": "mem-project_leny_sign_and_shield_website-design-direction--old-money--b",
+      "category": "project_leny_sign_and_shield_website",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_leny_sign_and_shield_website-placeholders-to-fill-before-la": {
+      "id": "mem-project_leny_sign_and_shield_website-placeholders-to-fill-before-la",
+      "category": "project_leny_sign_and_shield_website",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_leny_sign_and_shield_website-deploy": {
+      "id": "mem-project_leny_sign_and_shield_website-deploy",
+      "category": "project_leny_sign_and_shield_website",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_local_llm_ui----": {
+      "id": "mem-project_local_llm_ui----",
+      "category": "project_local_llm_ui",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_polymerization_status----": {
+      "id": "mem-project_polymerization_status----",
+      "category": "project_polymerization_status",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_routing_map_audit----": {
+      "id": "mem-project_routing_map_audit----",
+      "category": "project_routing_map_audit",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_routing_map_audit-critical-findings": {
+      "id": "mem-project_routing_map_audit-critical-findings",
+      "category": "project_routing_map_audit",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_routing_map_audit-key-files": {
+      "id": "mem-project_routing_map_audit-key-files",
+      "category": "project_routing_map_audit",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_seo_polymerization----": {
+      "id": "mem-project_seo_polymerization----",
+      "category": "project_seo_polymerization",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_seo_polymerization-merge-map--26---5-": {
+      "id": "mem-project_seo_polymerization-merge-map--26---5-",
+      "category": "project_seo_polymerization",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_seo_polymerization-source-skill-sizes": {
+      "id": "mem-project_seo_polymerization-source-skill-sizes",
+      "category": "project_seo_polymerization",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_seo_polymerization-execution-notes": {
+      "id": "mem-project_seo_polymerization-execution-notes",
+      "category": "project_seo_polymerization",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_skill_routing_map----": {
+      "id": "mem-project_skill_routing_map----",
+      "category": "project_skill_routing_map",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_skill_routing_map-skill-routing-map---3-versions": {
+      "id": "mem-project_skill_routing_map-skill-routing-map---3-versions",
+      "category": "project_skill_routing_map",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_statementforge----": {
+      "id": "mem-project_statementforge----",
+      "category": "project_statementforge",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-project_tax_prep----": {
+      "id": "mem-project_tax_prep----",
+      "category": "project_tax_prep",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-protect_desktop_skill_routing----": {
+      "id": "mem-protect_desktop_skill_routing----",
+      "category": "protect_desktop_skill_routing",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_capsolver_creds----": {
+      "id": "mem-reference_capsolver_creds----",
+      "category": "reference_capsolver_creds",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_credify_master_spec----": {
+      "id": "mem-reference_credify_master_spec----",
+      "category": "reference_credify_master_spec",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_gemini_api_key----": {
+      "id": "mem-reference_gemini_api_key----",
+      "category": "reference_gemini_api_key",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_graphifyy_python314_pin----": {
+      "id": "mem-reference_graphifyy_python314_pin----",
+      "category": "reference_graphifyy_python314_pin",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_perplexity_mcp----": {
+      "id": "mem-reference_perplexity_mcp----",
+      "category": "reference_perplexity_mcp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_skill_categories----": {
+      "id": "mem-reference_skill_categories----",
+      "category": "reference_skill_categories",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_skill_categories-categories-and-families--appli": {
+      "id": "mem-reference_skill_categories-categories-and-families--appli",
+      "category": "reference_skill_categories",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_skill_categories-intentionally-not-tagged": {
+      "id": "mem-reference_skill_categories-intentionally-not-tagged",
+      "category": "reference_skill_categories",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_skill_categories-change-policy": {
+      "id": "mem-reference_skill_categories-change-policy",
+      "category": "reference_skill_categories",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_skill_categories-rollback": {
+      "id": "mem-reference_skill_categories-rollback",
+      "category": "reference_skill_categories",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_skill_categories-one-shot-in-a-throwaway-script": {
+      "id": "mem-reference_skill_categories-one-shot-in-a-throwaway-script",
+      "category": "reference_skill_categories",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_taste_family_skills----": {
+      "id": "mem-reference_taste_family_skills----",
+      "category": "reference_taste_family_skills",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-reference_textverified_creds----": {
+      "id": "mem-reference_textverified_creds----",
+      "category": "reference_textverified_creds",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-skill-audit-2026-04-07----": {
+      "id": "mem-skill-audit-2026-04-07----",
+      "category": "skill-audit-2026-04-07",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-skill-audit-2026-04-07-skill-efficacy-audit--2026-04-": {
+      "id": "mem-skill-audit-2026-04-07-skill-efficacy-audit--2026-04-",
+      "category": "skill-audit-2026-04-07",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538773
+    },
+    "mem-skills-optimization-2026-03-21----": {
+      "id": "mem-skills-optimization-2026-03-21----",
+      "category": "skills-optimization-2026-03-21",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-skills-optimization-2026-03-21-skills-context-window-optimiza": {
+      "id": "mem-skills-optimization-2026-03-21-skills-context-window-optimiza",
+      "category": "skills-optimization-2026-03-21",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-system_architecture----": {
+      "id": "mem-system_architecture----",
+      "category": "system_architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-system_architecture-hook-system-architecture": {
+      "id": "mem-system_architecture-hook-system-architecture",
+      "category": "system_architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-system_architecture-key-paths": {
+      "id": "mem-system_architecture-key-paths",
+      "category": "system_architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-system_architecture-session-patterns": {
+      "id": "mem-system_architecture-session-patterns",
+      "category": "system_architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-system_architecture-observer-system--killed-2026-0": {
+      "id": "mem-system_architecture-observer-system--killed-2026-0",
+      "category": "system_architecture",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-tailwind-cdn-selfcontained-fix----": {
+      "id": "mem-tailwind-cdn-selfcontained-fix----",
+      "category": "tailwind-cdn-selfcontained-fix",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-tool_cpanel_mcp----": {
+      "id": "mem-tool_cpanel_mcp----",
+      "category": "tool_cpanel_mcp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-tool_cpanel_mcp-location": {
+      "id": "mem-tool_cpanel_mcp-location",
+      "category": "tool_cpanel_mcp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-tool_cpanel_mcp-target": {
+      "id": "mem-tool_cpanel_mcp-target",
+      "category": "tool_cpanel_mcp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-tool_cpanel_mcp-local-patch-applied": {
+      "id": "mem-tool_cpanel_mcp-local-patch-applied",
+      "category": "tool_cpanel_mcp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-tool_cpanel_mcp-confirmed-working-tools": {
+      "id": "mem-tool_cpanel_mcp-confirmed-working-tools",
+      "category": "tool_cpanel_mcp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-tool_cpanel_mcp-known-broken-tool-mappings--up": {
+      "id": "mem-tool_cpanel_mcp-known-broken-tool-mappings--up",
+      "category": "tool_cpanel_mcp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-tool_cpanel_mcp-security-notes": {
+      "id": "mem-tool_cpanel_mcp-security-notes",
+      "category": "tool_cpanel_mcp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-tool_cpanel_mcp-how-to-use-from-claude-code": {
+      "id": "mem-tool_cpanel_mcp-how-to-use-from-claude-code",
+      "category": "tool_cpanel_mcp",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-user_browser_preference----": {
+      "id": "mem-user_browser_preference----",
+      "category": "user_browser_preference",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-user_deal_analyzer----": {
+      "id": "mem-user_deal_analyzer----",
+      "category": "user_deal_analyzer",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-user_vision----": {
+      "id": "mem-user_vision----",
+      "category": "user_vision",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-project_apexpay----": {
+      "id": "mem-project_apexpay----",
+      "category": "project_apexpay",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-project_apexpay-phase-status--as-of-2026-03-22": {
+      "id": "mem-project_apexpay-phase-status--as-of-2026-03-22",
+      "category": "project_apexpay",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-project_apexpay-stack": {
+      "id": "mem-project_apexpay-stack",
+      "category": "project_apexpay",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-project_apexpay-key-patterns": {
+      "id": "mem-project_apexpay-key-patterns",
+      "category": "project_apexpay",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-MEMORY----openpayroll-source-repos---": {
+      "id": "mem-MEMORY----openpayroll-source-repos---",
+      "category": "core",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-project_openpayroll_repos----": {
+      "id": "mem-project_openpayroll_repos----",
+      "category": "project_openpayroll_repos",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-project_openpayroll_repos-openpayroll-enterprise-plan---": {
+      "id": "mem-project_openpayroll_repos-openpayroll-enterprise-plan---",
+      "category": "project_openpayroll_repos",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538774
+    },
+    "mem-project_timetrex_tax_integration----": {
+      "id": "mem-project_timetrex_tax_integration----",
+      "category": "project_timetrex_tax_integration",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538775
+    },
+    "mem-project_timetrex_tax_integration-timetrex-tax-patches-2022-2025": {
+      "id": "mem-project_timetrex_tax_integration-timetrex-tax-patches-2022-2025",
+      "category": "project_timetrex_tax_integration",
+      "confidence": 0.5,
+      "accessCount": 0,
+      "createdAt": 1777065538775
+    }
+  },
+  "edges": [
+    {
+      "sourceId": "mem-MEMORY-credify---credit-repair",
+      "targetId": "mem-MEMORY-core-behavioral-rules--apply-t",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-MEMORY-core-behavioral-rules--apply-t",
+      "targetId": "mem-MEMORY-deal-analyzer",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-MEMORY-deal-analyzer",
+      "targetId": "mem-MEMORY-payroll-engine",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-MEMORY-payroll-engine",
+      "targetId": "mem-MEMORY-projects",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-MEMORY-projects",
+      "targetId": "mem-MEMORY-user-profile",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-MEMORY-user-profile",
+      "targetId": "mem-MEMORY-skills---tools",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-MEMORY-skills---tools",
+      "targetId": "mem-MEMORY-hooks---system",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-MEMORY-hooks---system",
+      "targetId": "mem-MEMORY-design",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-MEMORY-design",
+      "targetId": "mem-MEMORY-research",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-adhd-protocol-supplements----",
+      "targetId": "mem-adhd-protocol-supplements-protocol-files----desktop-adhd",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-adhd-protocol-supplements-protocol-files----desktop-adhd",
+      "targetId": "mem-adhd-protocol-supplements-current-sleep-stack--upgraded-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-adhd-protocol-supplements-current-sleep-stack--upgraded-",
+      "targetId": "mem-adhd-protocol-supplements-peptide-stack",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-adhd-protocol-supplements-peptide-stack",
+      "targetId": "mem-adhd-protocol-supplements-recent-additions--from-tattere",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-adhd-protocol-supplements-recent-additions--from-tattere",
+      "targetId": "mem-adhd-protocol-supplements-key-findings",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-auto-router-2026-03-21----",
+      "targetId": "mem-auto-router-2026-03-21-skill-auto-router--2026-03-21-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credify_ftc_engine----",
+      "targetId": "mem-credify_ftc_engine-credify-ftc-engine",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credify_intake_form----",
+      "targetId": "mem-credify_intake_form-credify-client-intake-form",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credit-audit-business-rules----",
+      "targetId": "mem-credit-audit-business-rules-credit-audit-business-rules--a",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credit-audit-closed-revolving-rule----",
+      "targetId": "mem-credit-audit-closed-revolving-rule-closed-account-rules--as-of-20",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credit-audit-redesign----",
+      "targetId": "mem-credit-audit-redesign-credit-audit-template-redesign",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credit_strategy_engine----",
+      "targetId": "mem-credit_strategy_engine-files",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credit_strategy_engine-files",
+      "targetId": "mem-credit_strategy_engine-usage",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credit_strategy_engine-usage",
+      "targetId": "mem-credit_strategy_engine-json-input-schema--key-fields-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credit_strategy_engine-json-input-schema--key-fields-",
+      "targetId": "mem-credit_strategy_engine-key-behaviors",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credit_strategy_engine-key-behaviors",
+      "targetId": "mem-credit_strategy_engine-design-reference",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-credit_strategy_template----",
+      "targetId": "mem-credit_strategy_template-credit-strategy-document-templ",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-dark-build-1----",
+      "targetId": "mem-dark-build-1-design-tokens",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-dark-build-1-design-tokens",
+      "targetId": "mem-dark-build-1-core-style-rules",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-dark-build-1-core-style-rules",
+      "targetId": "mem-dark-build-1-component-patterns",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-dark-build-1-component-patterns",
+      "targetId": "mem-dark-build-1-interaction",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-dark-build-1-interaction",
+      "targetId": "mem-dark-build-1-responsive-breakpoints",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-dark-build-1-responsive-breakpoints",
+      "targetId": "mem-dark-build-1-constraints--do-not-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-dark-build-1-constraints--do-not-",
+      "targetId": "mem-dark-build-1-reference-file",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-feedback_verify_capability_before_refusing----",
+      "targetId": "mem-feedback_verify_capability_before_refusing-rule-1---verify-before-declini",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-feedback_verify_capability_before_refusing-rule-1---verify-before-declini",
+      "targetId": "mem-feedback_verify_capability_before_refusing-rule-2---never-substitute-a-ca",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-feedback_verify_capability_before_refusing-rule-2---never-substitute-a-ca",
+      "targetId": "mem-feedback_verify_capability_before_refusing-rule-3---bound-the-url-safety-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-ftc_form_flow----",
+      "targetId": "mem-ftc_form_flow-complete-post-2fa-flow--record",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-hooks-architecture-how-claude-code-loads-hooks",
+      "targetId": "mem-hooks-architecture-all-5-hooks-json-locations-all",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-hooks-architecture-all-5-hooks-json-locations-all",
+      "targetId": "mem-hooks-architecture-write-hook-fix",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-hooks-architecture-write-hook-fix",
+      "targetId": "mem-hooks-architecture-bypass-workaround",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-hooks-architecture-bypass-workaround",
+      "targetId": "mem-hooks-architecture-auto-memory-bridge-fix--2026-0",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-hooks-architecture-auto-memory-bridge-fix--2026-0",
+      "targetId": "mem-hooks-architecture-note--observer-system-killed-2",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-hooks-architecture-note--observer-system-killed-2",
+      "targetId": "mem-hooks-architecture-key-insight",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-observer_v2_postmortem----",
+      "targetId": "mem-observer_v2_postmortem-continuous-learning-v2-observe",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-observer_v2_postmortem-continuous-learning-v2-observe",
+      "targetId": "mem-observer_v2_postmortem-what-was-killed",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-observer_v2_postmortem-what-was-killed",
+      "targetId": "mem-observer_v2_postmortem-failure-modes--avoid-in-v3-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-observer_v2_postmortem-failure-modes--avoid-in-v3-",
+      "targetId": "mem-observer_v2_postmortem-drive-crash-correlation---verd",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-observer_v2_postmortem-drive-crash-correlation---verd",
+      "targetId": "mem-observer_v2_postmortem-things-that-worked--preserve-i",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-observer_v2_postmortem-things-that-worked--preserve-i",
+      "targetId": "mem-observer_v2_postmortem-recommended-v3-design-principl",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-payroll_engine_v2_updates----",
+      "targetId": "mem-payroll_engine_v2_updates-changes-applied",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-payroll_engine_v2_updates-changes-applied",
+      "targetId": "mem-payroll_engine_v2_updates-pending--1099-contractor-mode",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-payroll_engine_v3_enterprise_upgrade----",
+      "targetId": "mem-payroll_engine_v3_enterprise_upgrade-new-files-added--7-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-payroll_engine_v3_enterprise_upgrade-new-files-added--7-",
+      "targetId": "mem-payroll_engine_v3_enterprise_upgrade-modified-files",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-payroll_engine_v3_enterprise_upgrade-modified-files",
+      "targetId": "mem-payroll_engine_v3_enterprise_upgrade-design-decisions",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-payroll_engine_v3_enterprise_upgrade-design-decisions",
+      "targetId": "mem-payroll_engine_v3_enterprise_upgrade-watermark-positioning--rendere",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_agentic_rag_education----",
+      "targetId": "mem-project_agentic_rag_education-paths",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_agentic_rag_education-paths",
+      "targetId": "mem-project_agentic_rag_education-deployment",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_agentic_rag_education-deployment",
+      "targetId": "mem-project_agentic_rag_education-non-obvious-gotchas--would-los",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_agentic_rag_education-non-obvious-gotchas--would-los",
+      "targetId": "mem-project_agentic_rag_education-key-decisions--locked-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_agentic_rag_education-key-decisions--locked-",
+      "targetId": "mem-project_agentic_rag_education-current-state-at-last-checkpoi",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_automated_email_creator----",
+      "targetId": "mem-project_automated_email_creator-automated-email-creator",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_banking_forge_status----",
+      "targetId": "mem-project_banking_forge_status-banking-forge---boa-demo-state",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state----",
+      "targetId": "mem-project_ftc_intake_workflow_state-where--two-repos-involved",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-where--two-repos-involved",
+      "targetId": "mem-project_ftc_intake_workflow_state-what--end-to-end-pipeline-conf",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-what--end-to-end-pipeline-conf",
+      "targetId": "mem-project_ftc_intake_workflow_state-reset---launch-procedure--for-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-reset---launch-procedure--for-",
+      "targetId": "mem-project_ftc_intake_workflow_state-2--remove-local-active-clients",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-2--remove-local-active-clients",
+      "targetId": "mem-project_ftc_intake_workflow_state-3--copy-fresh-test-folder-from",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-3--copy-fresh-test-folder-from",
+      "targetId": "mem-project_ftc_intake_workflow_state-5--launch",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-5--launch",
+      "targetId": "mem-project_ftc_intake_workflow_state-recent-commit-history--last-se",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-recent-commit-history--last-se",
+      "targetId": "mem-project_ftc_intake_workflow_state-pending-issues--top-of-stack-w",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-pending-issues--top-of-stack-w",
+      "targetId": "mem-project_ftc_intake_workflow_state-what-works-confirmed--from-las",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-what-works-confirmed--from-las",
+      "targetId": "mem-project_ftc_intake_workflow_state-ftc-confirmation-numbers-logge",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-ftc-confirmation-numbers-logge",
+      "targetId": "mem-project_ftc_intake_workflow_state-key-design-decisions-locked-in",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_github_backup_protocol----",
+      "targetId": "mem-project_github_backup_protocol-github-backup-protocol--update",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_leny_sign_and_shield_website----",
+      "targetId": "mem-project_leny_sign_and_shield_website-heritage--private---do-not-put",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_leny_sign_and_shield_website-heritage--private---do-not-put",
+      "targetId": "mem-project_leny_sign_and_shield_website-site-location",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_leny_sign_and_shield_website-site-location",
+      "targetId": "mem-project_leny_sign_and_shield_website-design-direction--old-money--b",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_leny_sign_and_shield_website-design-direction--old-money--b",
+      "targetId": "mem-project_leny_sign_and_shield_website-placeholders-to-fill-before-la",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_leny_sign_and_shield_website-placeholders-to-fill-before-la",
+      "targetId": "mem-project_leny_sign_and_shield_website-deploy",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_routing_map_audit----",
+      "targetId": "mem-project_routing_map_audit-critical-findings",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_routing_map_audit-critical-findings",
+      "targetId": "mem-project_routing_map_audit-key-files",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_seo_polymerization----",
+      "targetId": "mem-project_seo_polymerization-merge-map--26---5-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_seo_polymerization-merge-map--26---5-",
+      "targetId": "mem-project_seo_polymerization-source-skill-sizes",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_seo_polymerization-source-skill-sizes",
+      "targetId": "mem-project_seo_polymerization-execution-notes",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_skill_routing_map----",
+      "targetId": "mem-project_skill_routing_map-skill-routing-map---3-versions",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-reference_skill_categories----",
+      "targetId": "mem-reference_skill_categories-categories-and-families--appli",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-reference_skill_categories-categories-and-families--appli",
+      "targetId": "mem-reference_skill_categories-intentionally-not-tagged",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-reference_skill_categories-intentionally-not-tagged",
+      "targetId": "mem-reference_skill_categories-change-policy",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-reference_skill_categories-change-policy",
+      "targetId": "mem-reference_skill_categories-rollback",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-reference_skill_categories-rollback",
+      "targetId": "mem-reference_skill_categories-one-shot-in-a-throwaway-script",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-skill-audit-2026-04-07----",
+      "targetId": "mem-skill-audit-2026-04-07-skill-efficacy-audit--2026-04-",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-skills-optimization-2026-03-21----",
+      "targetId": "mem-skills-optimization-2026-03-21-skills-context-window-optimiza",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-system_architecture----",
+      "targetId": "mem-system_architecture-hook-system-architecture",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-system_architecture-hook-system-architecture",
+      "targetId": "mem-system_architecture-key-paths",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-system_architecture-key-paths",
+      "targetId": "mem-system_architecture-session-patterns",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-system_architecture-session-patterns",
+      "targetId": "mem-system_architecture-observer-system--killed-2026-0",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-tool_cpanel_mcp----",
+      "targetId": "mem-tool_cpanel_mcp-location",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-tool_cpanel_mcp-location",
+      "targetId": "mem-tool_cpanel_mcp-target",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-tool_cpanel_mcp-target",
+      "targetId": "mem-tool_cpanel_mcp-local-patch-applied",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-tool_cpanel_mcp-local-patch-applied",
+      "targetId": "mem-tool_cpanel_mcp-confirmed-working-tools",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-tool_cpanel_mcp-confirmed-working-tools",
+      "targetId": "mem-tool_cpanel_mcp-known-broken-tool-mappings--up",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-tool_cpanel_mcp-known-broken-tool-mappings--up",
+      "targetId": "mem-tool_cpanel_mcp-security-notes",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-tool_cpanel_mcp-security-notes",
+      "targetId": "mem-tool_cpanel_mcp-how-to-use-from-claude-code",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_apexpay----",
+      "targetId": "mem-project_apexpay-phase-status--as-of-2026-03-22",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_apexpay-phase-status--as-of-2026-03-22",
+      "targetId": "mem-project_apexpay-stack",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_apexpay-stack",
+      "targetId": "mem-project_apexpay-key-patterns",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_openpayroll_repos----",
+      "targetId": "mem-project_openpayroll_repos-openpayroll-enterprise-plan---",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-project_timetrex_tax_integration----",
+      "targetId": "mem-project_timetrex_tax_integration-timetrex-tax-patches-2022-2025",
+      "type": "temporal",
+      "weight": 0.5
+    },
+    {
+      "sourceId": "mem-hooks-architecture-how-claude-code-loads-hooks",
+      "targetId": "mem-hooks-architecture-all-5-hooks-json-locations-all",
+      "type": "similar",
+      "weight": 0.3153846153846154
+    },
+    {
+      "sourceId": "mem-hooks-architecture-how-claude-code-loads-hooks",
+      "targetId": "mem-hooks-architecture-key-insight",
+      "type": "similar",
+      "weight": 0.44086021505376344
+    },
+    {
+      "sourceId": "mem-hooks-architecture-all-5-hooks-json-locations-all",
+      "targetId": "mem-hooks-architecture-key-insight",
+      "type": "similar",
+      "weight": 0.34782608695652173
+    },
+    {
+      "sourceId": "mem-project_ftc_intake_workflow_state-where--two-repos-involved",
+      "targetId": "mem-project_ftc_intake_workflow_state-reset---launch-procedure--for-",
+      "type": "similar",
+      "weight": 0.37606837606837606
+    },
+    {
+      "sourceId": "mem-project_skill_routing_map----",
+      "targetId": "mem-project_skill_routing_map-skill-routing-map---3-versions",
+      "type": "similar",
+      "weight": 0.3076923076923077
+    },
+    {
+      "sourceId": "mem-system_architecture-hook-system-architecture",
+      "targetId": "mem-system_architecture-key-paths",
+      "type": "similar",
+      "weight": 0.3049645390070922
+    }
+  ],
+  "pageRanks": {
+    "mem-MEMORY-credify---credit-repair": 0.0023041472411512213,
+    "mem-MEMORY-core-behavioral-rules--apply-t": 0.00426267285769867,
+    "mem-MEMORY-deal-analyzer": 0.005927418837565781,
+    "mem-MEMORY-payroll-engine": 0.00734245267678886,
+    "mem-MEMORY-projects": 0.008545230410028323,
+    "mem-MEMORY-user-profile": 0.009567593003814101,
+    "mem-MEMORY-skills---tools": 0.010436595503029765,
+    "mem-MEMORY-hooks---system": 0.011175239481791789,
+    "mem-MEMORY-design": 0.011803072738652854,
+    "mem-MEMORY-research": 0.012336741578580642,
+    "mem-adhd-protocol-supplements----": 0.0023041472411512213,
+    "mem-adhd-protocol-supplements-protocol-files----desktop-adhd": 0.00426267285769867,
+    "mem-adhd-protocol-supplements-current-sleep-stack--upgraded-": 0.005927418837565781,
+    "mem-adhd-protocol-supplements-peptide-stack": 0.00734245267678886,
+    "mem-adhd-protocol-supplements-recent-additions--from-tattere": 0.008545230410028323,
+    "mem-adhd-protocol-supplements-key-findings": 0.009567593003814101,
+    "mem-apigenin-bioavailability----": 0.0023041472411512213,
+    "mem-auto-router-2026-03-21----": 0.0023041472411512213,
+    "mem-auto-router-2026-03-21-skill-auto-router--2026-03-21-": 0.00426267285769867,
+    "mem-credify_cross_bureau_dedup----": 0.0023041472411512213,
+    "mem-credify_ftc_engine----": 0.0023041472411512213,
+    "mem-credify_ftc_engine-credify-ftc-engine": 0.00426267285769867,
+    "mem-credify_intake_form----": 0.0023041472411512213,
+    "mem-credify_intake_form-credify-client-intake-form": 0.00426267285769867,
+    "mem-credit-audit-business-rules----": 0.0023041472411512213,
+    "mem-credit-audit-business-rules-credit-audit-business-rules--a": 0.00426267285769867,
+    "mem-credit-audit-closed-revolving-rule----": 0.0023041472411512213,
+    "mem-credit-audit-closed-revolving-rule-closed-account-rules--as-of-20": 0.00426267285769867,
+    "mem-credit-audit-output-location----": 0.0023041472411512213,
+    "mem-credit-audit-redesign----": 0.0023041472411512213,
+    "mem-credit-audit-redesign-credit-audit-template-redesign": 0.00426267285769867,
+    "mem-credit_strategy_engine----": 0.0023041472411512213,
+    "mem-credit_strategy_engine-files": 0.00426267285769867,
+    "mem-credit_strategy_engine-usage": 0.005927418837565781,
+    "mem-credit_strategy_engine-json-input-schema--key-fields-": 0.00734245267678886,
+    "mem-credit_strategy_engine-key-behaviors": 0.008545230410028323,
+    "mem-credit_strategy_engine-design-reference": 0.009567593003814101,
+    "mem-credit_strategy_template----": 0.0023041472411512213,
+    "mem-credit_strategy_template-credit-strategy-document-templ": 0.00426267285769867,
+    "mem-dark-build-1----": 0.0023041472411512213,
+    "mem-dark-build-1-design-tokens": 0.00426267285769867,
+    "mem-dark-build-1-core-style-rules": 0.005927418837565781,
+    "mem-dark-build-1-component-patterns": 0.00734245267678886,
+    "mem-dark-build-1-interaction": 0.008545230410028323,
+    "mem-dark-build-1-responsive-breakpoints": 0.009567593003814101,
+    "mem-dark-build-1-constraints--do-not-": 0.010436595503029765,
+    "mem-dark-build-1-reference-file": 0.011175239481791789,
+    "mem-feedback_aec_forbidden_buttons----": 0.0023041472411512213,
+    "mem-feedback_aec_mullvad_only_during_runs----": 0.0023041472411512213,
+    "mem-feedback_aec_use_visible_browser_for_debug----": 0.0023041472411512213,
+    "mem-feedback_aec_visual_tracking----": 0.0023041472411512213,
+    "mem-feedback_agent_type_for_design_review----": 0.0023041472411512213,
+    "mem-feedback_always_add_favicon----": 0.0023041472411512213,
+    "mem-feedback_chmod_600_secret_dotfiles----": 0.0023041472411512213,
+    "mem-feedback_client_email_rule----": 0.0023041472411512213,
+    "mem-feedback_client_folder_structure----": 0.0023041472411512213,
+    "mem-feedback_client_phone_tv_persistence----": 0.0023041472411512213,
+    "mem-feedback_credit_audit_workflow----": 0.0023041472411512213,
+    "mem-feedback_deal_analyzer_auto_trigger----": 0.0023041472411512213,
+    "mem-feedback_deal_analyzer_follow_workflow----": 0.0023041472411512213,
+    "mem-feedback_deal_analyzer_html_report----": 0.0023041472411512213,
+    "mem-feedback_deal_analyzer_scraping----": 0.0023041472411512213,
+    "mem-feedback_exhaust_all_tools----": 0.0023041472411512213,
+    "mem-feedback_font_sizing----": 0.0023041472411512213,
+    "mem-feedback_gmail_cli_over_mailapp----": 0.0023041472411512213,
+    "mem-feedback_live_polling----": 0.0023041472411512213,
+    "mem-feedback_ltv_decimals----": 0.0023041472411512213,
+    "mem-feedback_mailapp_default_sender----": 0.0023041472411512213,
+    "mem-feedback_minimum_effective_dose----": 0.0023041472411512213,
+    "mem-feedback_missing_fonts----": 0.0023041472411512213,
+    "mem-feedback_never_ask_listing_data----": 0.0023041472411512213,
+    "mem-feedback_no_auto_shipping----": 0.0023041472411512213,
+    "mem-feedback_no_desktop_log_files----": 0.0023041472411512213,
+    "mem-feedback_no_drive_sync----": 0.0023041472411512213,
+    "mem-feedback_no_em_dashes----": 0.0023041472411512213,
+    "mem-feedback_no_find_on_cloudstorage----": 0.0023041472411512213,
+    "mem-feedback_no_hybrid_boa----": 0.0023041472411512213,
+    "mem-feedback_node_path----": 0.0023041472411512213,
+    "mem-feedback_oem_convergence_prefer_operator_gate----": 0.0023041472411512213,
+    "mem-feedback_oem_santa_for_claude_internals----": 0.0023041472411512213,
+    "mem-feedback_payroll_demo_context----": 0.0023041472411512213,
+    "mem-feedback_paystub_friday_rule----": 0.0023041472411512213,
+    "mem-feedback_plan_mode----": 0.0023041472411512213,
+    "mem-feedback_trust_assumption----": 0.0023041472411512213,
+    "mem-feedback_verify_capability_before_refusing----": 0.0023041472411512213,
+    "mem-feedback_verify_capability_before_refusing-rule-1---verify-before-declini": 0.00426267285769867,
+    "mem-feedback_verify_capability_before_refusing-rule-2---never-substitute-a-ca": 0.005927418837565781,
+    "mem-feedback_verify_capability_before_refusing-rule-3---bound-the-url-safety-": 0.00734245267678886,
+    "mem-feedback_visual_verification----": 0.0023041472411512213,
+    "mem-feedback_vpn_mullvad_cli----": 0.0023041472411512213,
+    "mem-feedback_webfetch_403_fallback----": 0.0023041472411512213,
+    "mem-feedback_webgl_verification----": 0.0023041472411512213,
+    "mem-ftc_form_flow----": 0.0023041472411512213,
+    "mem-ftc_form_flow-complete-post-2fa-flow--record": 0.00426267285769867,
+    "mem-glass-card-dark-purple----": 0.0023041472411512213,
+    "mem-hooks-architecture-how-claude-code-loads-hooks": 0.0023041472411512213,
+    "mem-hooks-architecture-all-5-hooks-json-locations-all": 0.0036098309855161874,
+    "mem-hooks-architecture-write-hook-fix": 0.0038383253760473158,
+    "mem-hooks-architecture-bypass-workaround": 0.005566723794039918,
+    "mem-hooks-architecture-auto-memory-bridge-fix--2026-0": 0.007035861668257142,
+    "mem-hooks-architecture-note--observer-system-killed-2": 0.008284629074670518,
+    "mem-hooks-architecture-key-insight": 0.011533099213738346,
+    "mem-intelligence-report-skill----": 0.0023041472411512213,
+    "mem-observer_v2_postmortem----": 0.0023041472411512213,
+    "mem-observer_v2_postmortem-continuous-learning-v2-observe": 0.00426267285769867,
+    "mem-observer_v2_postmortem-what-was-killed": 0.005927418837565781,
+    "mem-observer_v2_postmortem-failure-modes--avoid-in-v3-": 0.00734245267678886,
+    "mem-observer_v2_postmortem-drive-crash-correlation---verd": 0.008545230410028323,
+    "mem-observer_v2_postmortem-things-that-worked--preserve-i": 0.009567593003814101,
+    "mem-observer_v2_postmortem-recommended-v3-design-principl": 0.010436595503029765,
+    "mem-payroll_engine_sales_rules----": 0.0023041472411512213,
+    "mem-payroll_engine_v2_updates----": 0.0023041472411512213,
+    "mem-payroll_engine_v2_updates-changes-applied": 0.00426267285769867,
+    "mem-payroll_engine_v2_updates-pending--1099-contractor-mode": 0.005927418837565781,
+    "mem-payroll_engine_v3_enterprise_upgrade----": 0.0023041472411512213,
+    "mem-payroll_engine_v3_enterprise_upgrade-new-files-added--7-": 0.00426267285769867,
+    "mem-payroll_engine_v3_enterprise_upgrade-modified-files": 0.005927418837565781,
+    "mem-payroll_engine_v3_enterprise_upgrade-design-decisions": 0.00734245267678886,
+    "mem-payroll_engine_v3_enterprise_upgrade-watermark-positioning--rendere": 0.008545230410028323,
+    "mem-permissions-override-bug----": 0.0023041472411512213,
+    "mem-project_agentic_rag_education----": 0.0023041472411512213,
+    "mem-project_agentic_rag_education-paths": 0.00426267285769867,
+    "mem-project_agentic_rag_education-deployment": 0.005927418837565781,
+    "mem-project_agentic_rag_education-non-obvious-gotchas--would-los": 0.00734245267678886,
+    "mem-project_agentic_rag_education-key-decisions--locked-": 0.008545230410028323,
+    "mem-project_agentic_rag_education-current-state-at-last-checkpoi": 0.009567593003814101,
+    "mem-project_ai_model_stack_2026----": 0.0023041472411512213,
+    "mem-project_automated_email_creator----": 0.0023041472411512213,
+    "mem-project_automated_email_creator-automated-email-creator": 0.00426267285769867,
+    "mem-project_banking_forge_status----": 0.0023041472411512213,
+    "mem-project_banking_forge_status-banking-forge---boa-demo-state": 0.00426267285769867,
+    "mem-project_boa_font_root_fix----": 0.0023041472411512213,
+    "mem-project_boa_fonts_authenticated----": 0.0023041472411512213,
+    "mem-project_boa_line_fix----": 0.0023041472411512213,
+    "mem-project_calibration_first_match----": 0.0023041472411512213,
+    "mem-project_ftc_intake_workflow_state----": 0.0023041472411512213,
+    "mem-project_ftc_intake_workflow_state-where--two-repos-involved": 0.00426267285769867,
+    "mem-project_ftc_intake_workflow_state-what--end-to-end-pipeline-conf": 0.004115783039358501,
+    "mem-project_ftc_intake_workflow_state-reset---launch-procedure--for-": 0.007614198565451045,
+    "mem-project_ftc_intake_workflow_state-2--remove-local-active-clients": 0.008776214533342147,
+    "mem-project_ftc_intake_workflow_state-3--copy-fresh-test-folder-from": 0.009763928626532753,
+    "mem-project_ftc_intake_workflow_state-5--launch": 0.010603483120041666,
+    "mem-project_ftc_intake_workflow_state-recent-commit-history--last-se": 0.011317098789303667,
+    "mem-project_ftc_intake_workflow_state-pending-issues--top-of-stack-w": 0.011923657359830154,
+    "mem-project_ftc_intake_workflow_state-what-works-confirmed--from-las": 0.012439229147997761,
+    "mem-project_ftc_intake_workflow_state-ftc-confirmation-numbers-logge": 0.012877488930682692,
+    "mem-project_ftc_intake_workflow_state-key-design-decisions-locked-in": 0.013250105195944039,
+    "mem-project_github_backup_protocol----": 0.0023041472411512213,
+    "mem-project_github_backup_protocol-github-backup-protocol--update": 0.00426267285769867,
+    "mem-project_leny_sign_and_shield_website----": 0.0023041472411512213,
+    "mem-project_leny_sign_and_shield_website-heritage--private---do-not-put": 0.00426267285769867,
+    "mem-project_leny_sign_and_shield_website-site-location": 0.005927418837565781,
+    "mem-project_leny_sign_and_shield_website-design-direction--old-money--b": 0.00734245267678886,
+    "mem-project_leny_sign_and_shield_website-placeholders-to-fill-before-la": 0.008545230410028323,
+    "mem-project_leny_sign_and_shield_website-deploy": 0.009567593003814101,
+    "mem-project_local_llm_ui----": 0.0023041472411512213,
+    "mem-project_polymerization_status----": 0.0023041472411512213,
+    "mem-project_routing_map_audit----": 0.0023041472411512213,
+    "mem-project_routing_map_audit-critical-findings": 0.00426267285769867,
+    "mem-project_routing_map_audit-key-files": 0.005927418837565781,
+    "mem-project_seo_polymerization----": 0.0023041472411512213,
+    "mem-project_seo_polymerization-merge-map--26---5-": 0.00426267285769867,
+    "mem-project_seo_polymerization-source-skill-sizes": 0.005927418837565781,
+    "mem-project_seo_polymerization-execution-notes": 0.00734245267678886,
+    "mem-project_skill_routing_map----": 0.0023041472411512213,
+    "mem-project_skill_routing_map-skill-routing-map---3-versions": 0.00426267285769867,
+    "mem-project_statementforge----": 0.0023041472411512213,
+    "mem-project_tax_prep----": 0.0023041472411512213,
+    "mem-protect_desktop_skill_routing----": 0.0023041472411512213,
+    "mem-reference_capsolver_creds----": 0.0023041472411512213,
+    "mem-reference_credify_master_spec----": 0.0023041472411512213,
+    "mem-reference_gemini_api_key----": 0.0023041472411512213,
+    "mem-reference_graphifyy_python314_pin----": 0.0023041472411512213,
+    "mem-reference_perplexity_mcp----": 0.0023041472411512213,
+    "mem-reference_skill_categories----": 0.0023041472411512213,
+    "mem-reference_skill_categories-categories-and-families--appli": 0.00426267285769867,
+    "mem-reference_skill_categories-intentionally-not-tagged": 0.005927418837565781,
+    "mem-reference_skill_categories-change-policy": 0.00734245267678886,
+    "mem-reference_skill_categories-rollback": 0.008545230410028323,
+    "mem-reference_skill_categories-one-shot-in-a-throwaway-script": 0.009567593003814101,
+    "mem-reference_taste_family_skills----": 0.0023041472411512213,
+    "mem-reference_textverified_creds----": 0.0023041472411512213,
+    "mem-skill-audit-2026-04-07----": 0.0023041472411512213,
+    "mem-skill-audit-2026-04-07-skill-efficacy-audit--2026-04-": 0.00426267285769867,
+    "mem-skills-optimization-2026-03-21----": 0.0023041472411512213,
+    "mem-skills-optimization-2026-03-21-skills-context-window-optimiza": 0.00426267285769867,
+    "mem-system_architecture----": 0.0023041472411512213,
+    "mem-system_architecture-hook-system-architecture": 0.00426267285769867,
+    "mem-system_architecture-key-paths": 0.005927418837565781,
+    "mem-system_architecture-session-patterns": 0.00734245267678886,
+    "mem-system_architecture-observer-system--killed-2026-0": 0.008545230410028323,
+    "mem-tailwind-cdn-selfcontained-fix----": 0.0023041472411512213,
+    "mem-tool_cpanel_mcp----": 0.0023041472411512213,
+    "mem-tool_cpanel_mcp-location": 0.00426267285769867,
+    "mem-tool_cpanel_mcp-target": 0.005927418837565781,
+    "mem-tool_cpanel_mcp-local-patch-applied": 0.00734245267678886,
+    "mem-tool_cpanel_mcp-confirmed-working-tools": 0.008545230410028323,
+    "mem-tool_cpanel_mcp-known-broken-tool-mappings--up": 0.009567593003814101,
+    "mem-tool_cpanel_mcp-security-notes": 0.010436595503029765,
+    "mem-tool_cpanel_mcp-how-to-use-from-claude-code": 0.011175239481791789,
+    "mem-user_browser_preference----": 0.0023041472411512213,
+    "mem-user_deal_analyzer----": 0.0023041472411512213,
+    "mem-user_vision----": 0.0023041472411512213,
+    "mem-project_apexpay----": 0.0023041472411512213,
+    "mem-project_apexpay-phase-status--as-of-2026-03-22": 0.00426267285769867,
+    "mem-project_apexpay-stack": 0.005927418837565781,
+    "mem-project_apexpay-key-patterns": 0.00734245267678886,
+    "mem-MEMORY----openpayroll-source-repos---": 0.0023041472411512213,
+    "mem-project_openpayroll_repos----": 0.0023041472411512213,
+    "mem-project_openpayroll_repos-openpayroll-enterprise-plan---": 0.00426267285769867,
+    "mem-project_timetrex_tax_integration----": 0.0023041472411512213,
+    "mem-project_timetrex_tax_integration-timetrex-tax-patches-2022-2025": 0.00426267285769867
+  }
+}
